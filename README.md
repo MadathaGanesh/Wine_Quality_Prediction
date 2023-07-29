@@ -1,6 +1,6 @@
 # Wine_Quality_Prediction
 
-Tech Stack Used : Python
+Programming Language Used Used : Python
 
 Tools Used : Jupiter , Anaconda 
 
