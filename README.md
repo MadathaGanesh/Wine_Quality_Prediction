@@ -1,5 +1,9 @@
 # Wine_Quality_Prediction
 
+Tech Stack Used : Python
+
+Tools Used : Jupiter , Anaconda 
+
  Enhancing Wine Quality Prediction with Machine Learning Algorithms
 
  In this project,  I aimed to develop a predictive model using linear regression to assess the quality of wine. 
